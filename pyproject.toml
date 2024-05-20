@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "fcc-ml"
+version = "1.0"
+description = "ML task 1"
+authors = ["Ahmed"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^1.26.4"
+pandas = "^2.2.2"
+matplotlib = "^3.8.4"
+tensorflow = "^2.16.1"
+scikit-learn = "^1.4.2"
+gradio = "^4.31.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

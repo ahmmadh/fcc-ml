@@ -1,0 +1,5 @@
+.venv/
+data/o2Saturation.csv
+data/magic04.data
+data/magic04.names
+.vscode/
